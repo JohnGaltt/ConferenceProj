@@ -1,0 +1,21 @@
+﻿@using Microsoft.Extensions.Options
+@using CorePluralSightFirst
+@model Shared.Models.ConferenceModel
+@inject IOptions<CorePluralSightFirstOptions> options
+<tr>
+    <td>@Model.Name</td>
+    <td>@Model.Location</td>
+    <td>@Model.Start.ToString("ddd d MMM")</td>
+    @if (Model.AtendeeTotal > options.Value.BoldConferenceAttendeeThreshold)
+    {
+        <td><strong>@Model.AtendeeTotal</strong></td>
+
+    } else{
+    <td>@Model.AtendeeTotal</td>
+    }
+    <td>
+        <a asp-controller="Proposal" asp-action="Index" asp-route-conferenceId="@Model.Id">
+            Proposals
+        </a>
+    </td>
+</tr>

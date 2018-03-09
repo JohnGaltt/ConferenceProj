@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html> 
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <enviroment include="Development">
+        <link rel="stylesheet" asp-href-include="lib/bootstrap/dist/css/*" asp-href-exclude="lib/bootstrap/dist/css/*.min.css*"/>
+    </enviroment>
+
+</head>
+<body>
+     <div class="container">
+         <div class="row">
+             <div class="col-md-2">
+                 <img alt="logo" src="http://www.augment.com/wp-content/uploads/2015/06/small-logo.png" width="100" />
+             </div>
+             <div class="col-md-10 titlecol" style="margin-top: 45px; color: palevioletred;">
+             <span class="title">
+                 <strong>@ViewBag.Title</strong>
+             </span>
+             </div>
+         </div>
+         <div class="row">
+             <div class="col-md-12">
+                 @RenderBody()
+             </div>
+         </div>
+     </div>   
+</body>
+</html>

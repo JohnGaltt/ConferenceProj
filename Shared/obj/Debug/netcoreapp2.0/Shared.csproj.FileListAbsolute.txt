@@ -1,0 +1,9 @@
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\bin\Debug\netcoreapp2.0\Shared.deps.json
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\bin\Debug\netcoreapp2.0\Shared.dll
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\bin\Debug\netcoreapp2.0\Shared.pdb
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\obj\Debug\netcoreapp2.0\Shared.csprojResolveAssemblyReference.cache
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\obj\Debug\netcoreapp2.0\Shared.csproj.CoreCompileInputs.cache
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\obj\Debug\netcoreapp2.0\Shared.AssemblyInfoInputs.cache
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\obj\Debug\netcoreapp2.0\Shared.AssemblyInfo.cs
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\obj\Debug\netcoreapp2.0\Shared.dll
+D:\CoreAspNetLearning\CorePluralSightFirst\Shared\obj\Debug\netcoreapp2.0\Shared.pdb

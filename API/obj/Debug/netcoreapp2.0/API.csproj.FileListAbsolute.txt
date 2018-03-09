@@ -1,0 +1,15 @@
+D:\CoreAspNetLearning\CorePluralSightFirst\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+D:\CoreAspNetLearning\CorePluralSightFirst\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+D:\CoreAspNetLearning\CorePluralSightFirst\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+D:\CoreAspNetLearning\CorePluralSightFirst\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\API.deps.json
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\API.dll
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\API.pdb
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\CorePluralSightFirst.dll
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\Shared.dll
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\CorePluralSightFirst.pdb
+D:\CoreAspNetLearning\CorePluralSightFirst\API\bin\Debug\netcoreapp2.0\Shared.pdb
+D:\CoreAspNetLearning\CorePluralSightFirst\API\obj\Debug\netcoreapp2.0\API.dll
+D:\CoreAspNetLearning\CorePluralSightFirst\API\obj\Debug\netcoreapp2.0\API.pdb
